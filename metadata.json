@@ -1,0 +1,5 @@
+{
+  "name": "CamStreamer Cloud Status",
+  "description": "Real-time connectivity status dashboard for CamStreamer Cloud servers and firewall configuration assistant.",
+  "requestFramePermissions": []
+}
